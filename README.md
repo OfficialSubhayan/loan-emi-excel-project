@@ -22,6 +22,8 @@ The project demonstrates:
 
 ---
 
+<img width="704" height="297" alt="image" src="https://github.com/user-attachments/assets/c1b68deb-7d5d-48a0-9262-042c75edd3ed" />
+
 # 📂 Project Structure
 
 ```text
@@ -47,6 +49,9 @@ The project demonstrates:
 * Monthly Payment Estimation
 * Interest & Principal Breakdown
 
+<img width="452" height="244" alt="image" src="https://github.com/user-attachments/assets/35c3dc05-5aa6-4883-9a10-989ef1a398ad" />
+
+
 ## ✅ Loan Amortization Schedule
 
 * Opening Balance
@@ -54,8 +59,6 @@ The project demonstrates:
 * Interest Component
 * Principal Component
 * Closing Balance
-  
-<img width="704" height="297" alt="image" src="https://github.com/user-attachments/assets/c1b68deb-7d5d-48a0-9262-042c75edd3ed" />
 
 ## ✅ Interactive Dashboard
 
@@ -150,18 +153,6 @@ The dashboard includes:
 * Track repayment schedules
 * Visualize financial insights
 * Create an interactive banking dashboard
-
----
-
-# 📷 Dashboard Preview
-
-*Add screenshots of your dashboard here*
-
-Example:
-
-```markdown
-![Dashboard Screenshot](dashboard.png)
-```
 
 ---
 
