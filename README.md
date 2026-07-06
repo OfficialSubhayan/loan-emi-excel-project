@@ -22,7 +22,7 @@ The project demonstrates:
 
 ---
 
-<img width="704" height="297" alt="image" src="https://github.com/user-attachments/assets/c1b68deb-7d5d-48a0-9262-042c75edd3ed" />
+<img width="620" height="271" alt="image" src="https://github.com/user-attachments/assets/e9254589-046c-4b00-be19-0d60dbc64541" />
 
 # 📂 Project Structure
 
@@ -60,14 +60,15 @@ The project demonstrates:
 * Principal Component
 * Closing Balance
 
+<img width="704" height="297" alt="image" src="https://github.com/user-attachments/assets/c1b68deb-7d5d-48a0-9262-042c75edd3ed" />
+
+
 ## ✅ Interactive Dashboard
 
 * KPI Cards
 * Pivot Charts
 * Loan Portfolio Analysis
 * Loan Status Monitoring
-
-<img width="620" height="271" alt="image" src="https://github.com/user-attachments/assets/e9254589-046c-4b00-be19-0d60dbc64541" />
 
 ## ✅ Data Cleaning & Preprocessing
 
