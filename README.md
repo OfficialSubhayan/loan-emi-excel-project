@@ -19,8 +19,6 @@ The project demonstrates:
 * Dashboard Design
 * Pivot Table Analysis
 * Advanced Excel Functions
-  
-<img width="620" height="271" alt="image" src="https://github.com/user-attachments/assets/e9254589-046c-4b00-be19-0d60dbc64541" />
 
 ---
 
@@ -56,6 +54,8 @@ The project demonstrates:
 * Interest Component
 * Principal Component
 * Closing Balance
+  
+<img width="704" height="297" alt="image" src="https://github.com/user-attachments/assets/c1b68deb-7d5d-48a0-9262-042c75edd3ed" />
 
 ## ✅ Interactive Dashboard
 
@@ -63,6 +63,8 @@ The project demonstrates:
 * Pivot Charts
 * Loan Portfolio Analysis
 * Loan Status Monitoring
+
+<img width="620" height="271" alt="image" src="https://github.com/user-attachments/assets/e9254589-046c-4b00-be19-0d60dbc64541" />
 
 ## ✅ Data Cleaning & Preprocessing
 
